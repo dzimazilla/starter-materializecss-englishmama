@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 93,56,189;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11335,7 +11335,7 @@ p.lead {
   padding-right: 1rem;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 }
